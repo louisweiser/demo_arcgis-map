@@ -1,5 +1,5 @@
 import React from "react";
-import ArcGISMap from "./ArcGISMap";
+import ArcGISMap from "./components/Map";
 
 import "./App.css";
 

@@ -1,5 +1,7 @@
 import React, { useRef, useEffect } from "react";
-import { Map, MapView, Search } from "@arcgis/core";
+import Map from "@arcgis/core/Map";
+import MapView from "@arcgis/core/views/MapView";
+import Search from "@arcgis/core/widgets/Search";
 import "@arcgis/core/assets/esri/themes/light/main.css";
 
 const ArcGISMap = () => {
